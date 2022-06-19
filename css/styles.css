@@ -177,7 +177,7 @@ address {
 ol,
 ul {
   padding-left: 2rem;
-  padding-top: 20rem;
+  padding-top: -1rem;
 }
 
 ol,
