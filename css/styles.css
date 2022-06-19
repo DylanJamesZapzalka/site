@@ -177,12 +177,13 @@ address {
 ol,
 ul {
   padding-left: 2rem;
+  padding-top: 20rem;
 }
 
 ol,
 ul,
 dl {
-  margin-top: 2rem;
+  margin-top: 0;
   margin-bottom: 1rem;
 }
 
